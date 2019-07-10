@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AfrikaBrownlee/bootstrap.git",
+  "author": "afrikabrownlee <afrikabrownlee@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "script": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=11.3.0"
+  }
+}
