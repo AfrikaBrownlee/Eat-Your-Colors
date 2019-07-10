@@ -8,7 +8,7 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "script": {
+  "scripts": {
     "start": "node index.js"
   },
   "engines": {
